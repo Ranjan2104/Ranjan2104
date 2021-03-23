@@ -44,7 +44,7 @@
 
 <a href="https://github.com/Ranjan2104">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranjan2104&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan2104&theme=buefy&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan2104&theme=buefy&layout=compact" />
 </a>
 
 <br/>
