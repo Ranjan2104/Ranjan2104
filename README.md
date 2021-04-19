@@ -16,8 +16,8 @@
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
-  ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=arduino)
-  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
+  ![DATA SCIENCE & ML](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
