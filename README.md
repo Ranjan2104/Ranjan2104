@@ -17,7 +17,9 @@
   ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
-  ![DATA SCIENCE & ML](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
+  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
+  ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -25,6 +27,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![SWING](https://img.shields.io/badge/-Swing-333333?style=flat&logo=Swing)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![CockroachDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
