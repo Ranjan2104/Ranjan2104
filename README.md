@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics & Communication Engineering at Arya College of Engineering & IT, Jaipur, Rajasthan Technical University.
+- 🎓 &nbsp; Studying Electronics & Communication Engineering at Arya College of Engineering & IT, Jaipur(Rajasthan Technical University).
 - 💼 &nbsp; Passionate Pro_grammer, Java Developer, problem solving Skills and a Competitive Pro_grammer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
 - ✍️ &nbsp; Participation on Different Levels / National Level Hackathons, MHRD Innovation Cell Projects, etc.
