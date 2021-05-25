@@ -51,6 +51,14 @@
 </a>
 
 <br/>
+<br/>
+<p align="center">
+    <a href="https://github.com/Ranjan2104/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amresh Mallick's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan2104&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br/>
+<a href="https://github.com/Ranjan2104/github-readme-activity-graph"><img alt="Amresh Mallick's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amresh Mallick&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
