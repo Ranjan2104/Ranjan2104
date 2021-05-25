@@ -58,8 +58,8 @@
     </a>
 </p>
 <br/>
-<a href="https://github.com/Ranjan2104/github-readme-activity-graph"><img alt="Amresh Mallick's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amresh Mallick&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/Ranjan2104/github-readme-activity-graph"><img alt="Amresh Mallick's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ranjan2104&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
