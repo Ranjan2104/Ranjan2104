@@ -68,7 +68,5 @@
 <a href="https://www.instagram.com/ranjan_amresh_2104/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-amresh__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ranjan.amresh100@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranjan.amresh100@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ranjan2104)
-<br>
 ⭐️ From [Amresh2104](https://github.com/Ranjan2104)
